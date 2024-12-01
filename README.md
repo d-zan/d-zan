@@ -1,4 +1,4 @@
-
+# I love JS 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/776359293276258315) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dz4n) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dz4n) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_dz4n ) 
 
